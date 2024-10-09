@@ -1,0 +1,17 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "shuruwaat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Anmol the great",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
